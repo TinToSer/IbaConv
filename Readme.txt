@@ -1,4 +1,4 @@
---------------To & DAT & Fro----V1.0.1-------------
+--------------To & DAT & Fro----V1.0.2-------------
 -----------Developer:-TinToSer
 ...............https://github.com/tintoser
 usage: IbaFileConv.exe [-h] [--ibapath IBAPATH] [--SourceFolder SOURCEFOLDER]
