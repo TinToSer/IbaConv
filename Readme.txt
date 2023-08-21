@@ -15,3 +15,5 @@ optional arguments:
                         FromAny','ToCOMTRADE FromAny'
   --once [ONCE]         If you don't want software to monitor and convert
                         files continuously in your folder
+
+--once is an optional parameter so if you give then its active else software runs in continuous mode
