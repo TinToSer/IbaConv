@@ -1,7 +1,7 @@
 @echo off
 REM Developed by TinToSer
 echo ####################################################
-echo       Converts To & Fro to various File formats using IbaAnalyzer
+echo       Converts To and Fro to various File formats using IbaAnalyzer
 echo ####################################By:TinToSer(https://github.com/TinToSer)
 echo:
 echo:
