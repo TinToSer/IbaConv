@@ -1,10 +1,11 @@
---------------To & DAT & Fro----V1.0.3-------------
+--------------To & DAT & Fro----V1.0.4-------------
 -----------Developer:-TinToSer
 ...............https://github.com/tintoser
 
 
-usage: IbaFileConv.exe [-h] [--ibapath IBAPATH] [--SourceFolder SOURCEFOLDER]
-                       [--once [ONCE]]
+usage: ibafileconv.exe [-h] [--ibapath IBAPATH] [--SourceFolder SOURCEFOLDER]
+                       [--once [ONCE]] [--timebase [TIMEBASE]]
+                       [--avgSamples [AVGSAMPLES]]
 
 optional arguments:
   -h, --help            show this help message and exit
@@ -15,5 +16,7 @@ optional arguments:
                         FromAny','ToCOMTRADE FromAny'
   --once [ONCE]         If you don't want software to monitor and convert
                         files continuously in your folder
-
---once is an optional parameter so if you give then it runs for once only else software runs in continuous mode
+  --timebase [TIMEBASE]
+                        Put timebase in seconds
+  --avgSamples [AVGSAMPLES]
+                        use Average samples over time
